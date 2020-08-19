@@ -1,6 +1,6 @@
-#This is a very simple Laravel 7 Custom Authentication (Login/Register) and simple example on Middleware route groups
+## This is a very simple Laravel 7 Custom Authentication (Login/Register) and simple example on Middleware route groups
 
-#Installation:
+## Installation:
 - composer install
 - cp .env.example .env (copy .env.example then paste&rename it .env )
 - Enter your DB credentials inside .env file
